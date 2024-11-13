@@ -3,3 +3,4 @@ b = 7
 print(a * b + 10)
 a = b
 print(a)
+print(b)
